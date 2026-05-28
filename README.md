@@ -99,6 +99,11 @@ Open: **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
 5. Open a Pull Request  
 
 ---
+## 👨‍💻 Author
+Bharath Raj
+GitHub: https://github.com/Bharathrajzero
+
+---
 
 ## 📜 License
 
