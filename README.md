@@ -111,7 +111,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ```
 
 ---
-
-This version is **ready to paste into your repo root** as `README.md`. It’s concise, professional, and GitHub‑friendly.  
-
-Would you like me to also prepare a **`requirements.txt` file** with all dependencies pinned to stable versions, so anyone cloning your repo can install everything in one go?
