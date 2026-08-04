@@ -54,7 +54,7 @@ VibeCheck-AI/
 
 ### 1. Setup Environment
 ```bash
-git clone https://github.com/Bharathrajzero/vibecheck-ai.git
+git clone https://github.com/Bharathrajzero/VibeCheck-AI.git
 cd VibeCheck-AI
 pip install -r requirements.txt
 ```
