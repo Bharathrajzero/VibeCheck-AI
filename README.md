@@ -36,7 +36,7 @@ Frontend → glowing UI cards (<15ms latency)
 ## 📂 Project Structure
 
 ```text
-vibecheck/
+VibeCheck-AI/
 │
 ├── data/
 │   └── songs.csv              # Dataset with 100+ descriptive entries
@@ -54,7 +54,7 @@ vibecheck/
 
 ### 1. Setup Environment
 ```bash
-git clone https://github.com/your-username/vibecheck-ai.git
+git clone https://github.com/Bharathrajzero/vibecheck-ai.git
 cd vibecheck-ai
 pip install -r requirements.txt
 ```
